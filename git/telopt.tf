@@ -3,7 +3,7 @@
 ;;;
 /require textutil.tf
 /loaded telopt.tf
-/require rooms
+/require customexit.tf
 ;;;
 ;;; ATCP stuff
 ;;;
